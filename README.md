@@ -18,7 +18,7 @@
 <a href="https://www.buymeacoffee.com/vsnaichuk" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 <a href="https://github.com/vsnaichuk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsnaichuk&theme=gotham&layout=compact" alt="vsnaichuk's github top languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsnaichuk&theme=outrun&layout=compact" alt="vsnaichuk's github top languages" />
 </a>
 
 [website]: https://sv-dev.netlify.app/
