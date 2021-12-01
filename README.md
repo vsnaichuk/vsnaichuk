@@ -7,10 +7,10 @@
 
 ## Connect with me:
 
-[<img align="left" alt="webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="vsnaichuk | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="vsnaichuk  | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="vsnaichuk  | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="webpage" width="27px" src="https://img.icons8.com/nolan/27/geography.png" />][website]
+[<img align="left" alt="vsnaichuk | Facebook" width="27px" src="https://img.icons8.com/nolan/27/facebook.png" />][facebook]
+[<img align="left" alt="vsnaichuk  | LinkedIn" width="27px" src="https://img.icons8.com/nolan/27/linkedin.png" />][linkedin]
+[<img align="left" alt="vsnaichuk  | Telegram" width="27px" src="https://img.icons8.com/nolan/27/telegram-app.png" />][telegram]
 <br />
 
 ## Support Me:
