@@ -2,7 +2,7 @@
 <!-- <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px"> -->
 
  
-- 🔭 I’m currently working on `Deep Learning JavaScript`
+- 🔭 I’m currently working on `Learning Swift`
 - 💬 Ask me about anything
 - 👨‍💻 Life Hack: Learn new tech :fire: and share what you have learned :tada:
 
