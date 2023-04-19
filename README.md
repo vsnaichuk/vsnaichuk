@@ -37,10 +37,6 @@
 <img width="300px" alt="My Top Language" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vsnaichuk&theme=tokyonight&count_private=true&hide=tsql,plpgsql,objective-c,java,elixir,ruby,php,scss,starlark,handlebars,shell,sqlpl&layout=compact" />
 </div>
 
-[<img width="300px" alt="Codewars" src="https://www.codewars.com/users/vsnaichuk/badges/small" />][codewars]
-
-
-
 [codewars]: https://www.codewars.com/users/vsnaichuk/
 [website]: https://sv-dev.netlify.app/
 [facebook]: https://www.facebook.com/Snaychuk
