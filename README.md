@@ -16,7 +16,7 @@
 <br />
 <br />
 
-<img width="300px" alt="My Top Language" src="https://github-readme-stats-vsn.netlify.app/.netlify/functions/api/top-langs/?username=vsnaichuk&theme=tokyonight&hide=objective-c,java,ruby,scss,starlark,handlebars,shell,vue,html,css,js&layout=compact" />
+<img width="300px" alt="My Top Language" src="https://github-readme-stats-vsn.netlify.app/.netlify/functions/api/top-langs/?username=vsnaichuk&theme=tokyonight&hide=tsql,plpgsql,java,elixir,ruby,php,scss,starlark,handlebars,shell,sqlpl,vue,html,css,js&layout=compact" />
 </div>
 
 [website]: https://sv-dev.netlify.app/
