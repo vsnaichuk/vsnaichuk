@@ -2,7 +2,7 @@
 <!-- <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="30px"> -->
 
  
-- 🔭 I’m currently working on `Learning Swift`
+- 🔭 I’m currently working on `Learning Swift and Go`
 - 💬 Ask me about anything
 - 👨‍💻 My motto: Learn, grow, share, repeat.
 
