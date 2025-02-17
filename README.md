@@ -19,8 +19,7 @@
 <img width="300px" alt="My Top Language" src="https://github-readme-stats-vsn.netlify.app/.netlify/functions/api/top-langs/?username=vsnaichuk&theme=tokyonight&hide=html,scss,css,java,objective-c%2B%2B&layout=compact" />
 </div>
 
-[website]: https://sv-dev.netlify.app/
+[website]: http://svdev.art/
 [facebook]: https://www.facebook.com/Snaychuk
-[linkedin]: https://www.linkedin.com/in/volodymyr-snaichuk-74a389124
+[linkedin]: https://www.linkedin.com/in/vsnaichuk/
 [telegram]: https://t.me/snaichuk_v
-
